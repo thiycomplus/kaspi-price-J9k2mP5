@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-09 13:30">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-09 13:45">
     <company>623001</company>
     <merchantid>623001</merchantid>
     <offers>
@@ -70,7 +70,7 @@
                 <availability available="yes" preOrder="0" stockCount="9997.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1335</cityprice>
+                <cityprice cityId="710000000">1317</cityprice>
             </cityprices>
         </offer>
         <offer sku="1540">
@@ -210,7 +210,7 @@
                 <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="125980">
@@ -410,7 +410,7 @@
                 <availability available="yes" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="202592">
@@ -607,7 +607,7 @@
             <model>ThiY M1 серый 48</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="17.0"/>
+                <availability available="yes" preOrder="0" stockCount="16.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -710,7 +710,7 @@
                 <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="394615">
@@ -730,7 +730,7 @@
                 <availability available="yes" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="402655">
@@ -880,7 +880,7 @@
                 <availability available="yes" preOrder="0" stockCount="13.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="485090">
@@ -960,7 +960,7 @@
                 <availability available="yes" preOrder="0" stockCount="10.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="551316">
@@ -1000,7 +1000,7 @@
                 <availability available="yes" preOrder="0" stockCount="0.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="587239">
@@ -1030,7 +1030,7 @@
                 <availability available="yes" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="591244">
@@ -1170,7 +1170,7 @@
                 <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="683800">
@@ -1280,7 +1280,7 @@
                 <availability available="yes" preOrder="0" stockCount="13.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="732300">
@@ -1387,7 +1387,7 @@
             <model>ThiY M1 темно-синий 46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="14.0"/>
+                <availability available="yes" preOrder="0" stockCount="12.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -1430,7 +1430,7 @@
                 <availability available="yes" preOrder="0" stockCount="17.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="837064">
@@ -1527,7 +1527,7 @@
             <model>ThiY M1 темно-синий 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="57.0"/>
+                <availability available="yes" preOrder="0" stockCount="56.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -1570,7 +1570,7 @@
                 <availability available="yes" preOrder="0" stockCount="7.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="889927">
@@ -1640,7 +1640,7 @@
                 <availability available="yes" preOrder="0" stockCount="8.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="922717">
@@ -1650,7 +1650,7 @@
                 <availability available="yes" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="925744">
@@ -1737,7 +1737,7 @@
             <model>Комплект ThiY TR10 зеленый L</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2284.0"/>
+                <availability available="yes" preOrder="0" stockCount="2283.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2290</cityprice>
@@ -1820,14 +1820,14 @@
                 <availability available="yes" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="998231">
             <model>Thiy M1 розовый 46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="43.0"/>
+                <availability available="yes" preOrder="0" stockCount="42.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -1937,7 +1937,7 @@
             <model>ThiY M1 бордовый 48</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="7.0"/>
+                <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -2187,7 +2187,7 @@
             <model>Повседневные брюки ThiY Thb10 светло-бежевый 44-46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -2247,7 +2247,7 @@
             <model>LAVOLLE 000008 белый XL</model>
             <brand>lavolle</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="4.0"/>
+                <availability available="yes" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2990</cityprice>
@@ -2317,7 +2317,7 @@
             <model>ThiY MH2 белый 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="89.0"/>
+                <availability available="yes" preOrder="0" stockCount="88.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -2653,16 +2653,6 @@
                 <cityprice cityId="710000000">2890</cityprice>
             </cityprices>
         </offer>
-        <offer sku="043268378">
-            <model>ThiY TR18 черный M</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="043542574">
             <model>Ветровка ThiY FF7 зеленый 86</model>
             <brand>thiy</brand>
@@ -2800,7 +2790,7 @@
                 <availability available="yes" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
+                <cityprice cityId="710000000">7490</cityprice>
             </cityprices>
         </offer>
         <offer sku="051704340">
@@ -2987,7 +2977,7 @@
             <model>Платье ThiY SR черный L</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="12.0"/>
+                <availability available="yes" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2990</cityprice>
@@ -3147,7 +3137,7 @@
             <model>ThiY M1 бордовый 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="17.0"/>
+                <availability available="yes" preOrder="0" stockCount="16.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -3418,16 +3408,6 @@
             <brand>thiy</brand>
             <availabilities>
                 <availability available="yes" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="086937125">
-            <model>Майка ThiY MDB серый 48</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -3947,7 +3927,7 @@
             <model>Повседневные брюки ThiY Thb10 черный 50-52</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="998.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -4167,7 +4147,7 @@
             <model>ThiY M1 черный 42, 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="85.0"/>
+                <availability available="yes" preOrder="0" stockCount="84.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -4217,7 +4197,7 @@
             <model>Комплект ThiY FR серый 98</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="10.0"/>
+                <availability available="yes" preOrder="0" stockCount="9.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -4267,7 +4247,7 @@
             <model>Принтер ThiY D10 белый</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="6.0"/>
+                <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">27000</cityprice>
@@ -4320,7 +4300,7 @@
                 <availability available="yes" preOrder="0" stockCount="9.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="139141844">
@@ -4547,7 +4527,7 @@
             <model>ThiY thb13 черный 48 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="6.0"/>
+                <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -4567,7 +4547,7 @@
             <model>Комбинезон ThiY BLR розовый 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="12.0"/>
+                <availability available="yes" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -4698,16 +4678,6 @@
             <brand>thiy</brand>
             <availabilities>
                 <availability available="yes" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="157899269">
-            <model>Комплект ThiY 08 синий 140</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -5067,7 +5037,7 @@
             <model>ThiY подушка Для новорожденных хлопок, хлопок, 26x30 см</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="45.0"/>
+                <availability available="yes" preOrder="0" stockCount="44.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
@@ -5221,16 +5191,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="191315666">
-            <model>Майка ThiY MDB серый 46</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
         <offer sku="192068108">
@@ -5497,10 +5457,10 @@
             <model>ThiY MH2 белый 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="60.0"/>
+                <availability available="yes" preOrder="0" stockCount="59.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
+                <cityprice cityId="710000000">7990</cityprice>
             </cityprices>
         </offer>
         <offer sku="205745095">
@@ -5637,7 +5597,7 @@
             <model>Повседневное платье ThiY ED розовый 92</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
+                <availability available="yes" preOrder="25"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -5803,16 +5763,6 @@
                 <cityprice cityId="710000000">2190</cityprice>
             </cityprices>
         </offer>
-        <offer sku="220742364">
-            <model>Майка ThiY MDB черный 46</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="220769198">
             <model>ThiY M1 зеленый 44</model>
             <brand>thiy</brand>
@@ -5855,16 +5805,6 @@
         </offer>
         <offer sku="221750696">
             <model>Комплект ThiY TG2 фиолетовый 140</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="222703116">
-            <model>Повседневное платье ThiY однотонный SV розовый 110</model>
             <brand>thiy</brand>
             <availabilities>
                 <availability available="yes" preOrder="0" stockCount="1.0"/>
@@ -6047,7 +5987,7 @@
             <model>ThiY MH2 белый 46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="89.0"/>
+                <availability available="yes" preOrder="0" stockCount="88.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -6100,7 +6040,7 @@
                 <availability available="yes" preOrder="0" stockCount="13.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="233432265">
@@ -6157,7 +6097,7 @@
             <model>Чешки 636008 белый 26</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
@@ -6237,7 +6177,7 @@
             <model>ThiY thb13 бежевый 52 54</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="4.0"/>
+                <availability available="yes" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -6327,7 +6267,7 @@
             <model>Майка ThiY MDB бежевый 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -6683,16 +6623,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="263877247">
-            <model>Комбинезон ThiY BB1 розовый 140</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="263939711">
             <model>ThiY набор полотенец thiy 25x25 см 4 шт, хлопок</model>
             <brand>thiy</brand>
@@ -6828,16 +6758,6 @@
             <brand>thiy</brand>
             <availabilities>
                 <availability available="yes" preOrder="0" stockCount="15.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="268861782">
-            <model>Нарядное платье ThiY цветочный GU светло-бежевый 92</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -7247,7 +7167,7 @@
             <model>Нарядное платье ThiY однотонный ES розовый 92</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="15.0"/>
+                <availability available="yes" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -7583,16 +7503,6 @@
                 <cityprice cityId="710000000">3990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="311053664">
-            <model>Лонгслив ThiY однотонный 30333027_149772988 серый M</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="311788945">
             <model>Боди ThiY TR38 черный M</model>
             <brand>thiy</brand>
@@ -7657,7 +7567,7 @@
             <model>Майка ThiY MDB белый 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -8380,7 +8290,7 @@
                 <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="360151844">
@@ -8467,7 +8377,7 @@
             <model>Повседневное платье ThiY Кролик RR белый 128</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -8567,7 +8477,7 @@
             <model>Майка ThiY MDB серый 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -8687,7 +8597,7 @@
             <model>Комплект ThiY 2KA розовый 98</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -9170,7 +9080,7 @@
                 <availability available="yes" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
+                <cityprice cityId="710000000">7490</cityprice>
             </cityprices>
         </offer>
         <offer sku="405973498">
@@ -9277,7 +9187,7 @@
             <model>Чешки 636008 белый 30</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
@@ -9297,7 +9207,7 @@
             <model>ThiY thb13 черный 42 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="7.0"/>
+                <availability available="yes" preOrder="0" stockCount="6.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -9487,7 +9397,7 @@
             <model>ThiY MX2 белый 46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="38.0"/>
+                <availability available="yes" preOrder="0" stockCount="37.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -9607,7 +9517,7 @@
             <model>ThiY M1 бордовый 52</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="6.0"/>
+                <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">8990</cityprice>
@@ -9647,7 +9557,7 @@
             <model>Комплект ThiY TWR синий 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -9680,7 +9590,7 @@
                 <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">2490</cityprice>
+                <cityprice cityId="710000000">2890</cityprice>
             </cityprices>
         </offer>
         <offer sku="433097003">
@@ -9757,7 +9667,7 @@
             <model>ThiY M1 темно-синий 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="37.0"/>
+                <availability available="yes" preOrder="0" stockCount="36.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -10067,7 +9977,7 @@
             <model>Повседневное платье ThiY однотонный SF коричневый 92</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="7.0"/>
+                <availability available="yes" preOrder="0" stockCount="6.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -10247,7 +10157,7 @@
             <model>Нарядное платье ThiY однотонный ES розовый 98</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="12.0"/>
+                <availability available="yes" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -10257,7 +10167,7 @@
             <model>Комплект ThiY KOD черный 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -10337,7 +10247,7 @@
             <model>ThiY TNC розовый 5 лет</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -10547,7 +10457,7 @@
             <model>ThiY MX2 белый 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="29.0"/>
+                <availability available="yes" preOrder="0" stockCount="28.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -10577,7 +10487,7 @@
             <model>Платье ThiY SR черный XL</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="16.0"/>
+                <availability available="yes" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2990</cityprice>
@@ -10627,7 +10537,7 @@
             <model>Мини-сумка ThiY SD ПВХ черный</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="45.0"/>
+                <availability available="yes" preOrder="0" stockCount="44.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2190</cityprice>
@@ -11157,7 +11067,7 @@
             <model>Лонгслив ThiY однотонный Lg черный 48</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="37.0"/>
+                <availability available="yes" preOrder="0" stockCount="36.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2890</cityprice>
@@ -11267,7 +11177,7 @@
             <model>ThiY thb13 серый 50 52</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -11617,7 +11527,7 @@
             <model>Майка ThiY MDB бежевый 48</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -11747,7 +11657,7 @@
             <model>ThiY M1 черный 52</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="40.0"/>
+                <availability available="yes" preOrder="0" stockCount="39.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -12007,7 +11917,7 @@
             <model>Повседневные брюки ThiY Thb10 черный 44-46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -12137,7 +12047,7 @@
             <model>Повседневное платье ThiY однотонный YG бежевый 122</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="23.0"/>
+                <availability available="yes" preOrder="0" stockCount="22.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -12307,7 +12217,7 @@
             <model>ThiY M1 бордовый 54</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">8990</cityprice>
@@ -12547,7 +12457,7 @@
             <model>Комплект ThiY KOD черный 128</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="14.0"/>
+                <availability available="yes" preOrder="0" stockCount="13.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -12571,16 +12481,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="595138436">
-            <model>ThiY M4</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">7990</cityprice>
             </cityprices>
         </offer>
         <offer sku="595237281">
@@ -12860,7 +12760,7 @@
                 <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="609707608">
@@ -12887,7 +12787,7 @@
             <model>Комплект ThiY TG розовый 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="4900.0"/>
+                <availability available="yes" preOrder="0" stockCount="4899.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -12957,7 +12857,7 @@
             <model>Повседневное платье ThiY однотонный YG коричневый 122</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="20.0"/>
+                <availability available="yes" preOrder="0" stockCount="19.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -13240,7 +13140,7 @@
                 <availability available="yes" preOrder="0" stockCount="0.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="632002641">
@@ -13297,7 +13197,7 @@
             <model>Повседневное платье ThiY LM желтый, белый 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2490</cityprice>
@@ -13610,7 +13510,7 @@
                 <availability available="yes" preOrder="0" stockCount="15.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="658424258">
@@ -13843,16 +13743,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="675123575">
-            <model>Майка ThiY MDB серый 50</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="676053190">
             <model>Пижама ThiY PL красный 122</model>
             <brand>thiy</brand>
@@ -13913,16 +13803,6 @@
                 <cityprice cityId="710000000">3490</cityprice>
             </cityprices>
         </offer>
-        <offer sku="679765344">
-            <model>Повседневное платье ThiY SP мультиколор 152</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="679868454">
             <model>ThiY TR12</model>
             <brand>thiy</brand>
@@ -13947,7 +13827,7 @@
             <model>Повседневные брюки ThiY Thb11 черный XL</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="12.0"/>
+                <availability available="yes" preOrder="0" stockCount="11.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -14177,7 +14057,7 @@
             <model>Майка ThiY MDB черный 48</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -14477,7 +14357,7 @@
             <model>Комплект ThiY 08 серый 122</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -14957,7 +14837,7 @@
             <model>Повседневное платье ThiY однотонный SF розовый 98</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="23.0"/>
+                <availability available="yes" preOrder="0" stockCount="22.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -15067,7 +14947,7 @@
             <model>Комплект ThiY MNT серый 2 года</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -15407,7 +15287,7 @@
             <model>Принтер ThiY THIY-BT белый</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">25000</cityprice>
@@ -15477,7 +15357,7 @@
             <model>Комплект ThiY TR10 красный 3XL</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="9931.0"/>
+                <availability available="yes" preOrder="0" stockCount="9930.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2290</cityprice>
@@ -15800,7 +15680,7 @@
                 <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
+                <cityprice cityId="710000000">2490</cityprice>
             </cityprices>
         </offer>
         <offer sku="803642236">
@@ -16017,7 +15897,7 @@
             <model>Нарядное платье ThiY однотонный ES черный 92</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="7.0"/>
+                <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -16587,7 +16467,7 @@
             <model>Повседневное платье ThiY DR черный 92</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="4.0"/>
+                <availability available="yes" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -16717,7 +16597,7 @@
             <model>ThiY thb13 черный 50 52</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="8.0"/>
+                <availability available="yes" preOrder="0" stockCount="7.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -17083,16 +16963,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="866040837">
-            <model>Майка ThiY MDB черный 44</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="866577024">
             <model>Повседневные брюки ThiY Thb11 светло-бежевый XL</model>
             <brand>thiy</brand>
@@ -17303,16 +17173,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="879003585">
-            <model>Майка ThiY MDB бежевый 46</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="879259154">
             <model>Чешки 636008 белый 28</model>
             <brand>thiy</brand>
@@ -17343,21 +17203,11 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="880809615">
-            <model>Повседневное платье ThiY KKD красный, бежевый 128</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="880955062">
             <model>Повседневное платье ThiY Цветочный HH красный 92</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="8.0"/>
+                <availability available="yes" preOrder="0" stockCount="7.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -17468,16 +17318,6 @@
             <brand>thiy</brand>
             <availabilities>
                 <availability available="yes" preOrder="25" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="884112223">
-            <model>Комплект ThiY KRR розовый 98-104</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -17687,7 +17527,7 @@
             <model>Майка ThiY MDB бежевый 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="0.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -17867,7 +17707,7 @@
             <model>Нарядное платье ThiY Сказочный персонаж Эльза 18600328_155327209 розовый 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="14.0"/>
+                <availability available="yes" preOrder="0" stockCount="13.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -18377,7 +18217,7 @@
             <model>Повседневное платье ThiY однотонный VC синий 140</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="4.0"/>
+                <availability available="yes" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -18807,7 +18647,7 @@
             <model>Повседневные брюки ThiY Thb11 черный M</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="6.0"/>
+                <availability available="yes" preOrder="0" stockCount="5.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -18937,7 +18777,7 @@
             <model>Повседневные брюки ThiY Thb10 черный 48-50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="999.0"/>
+                <availability available="yes" preOrder="25" stockCount="998.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -18967,7 +18807,7 @@
             <model>Лонгслив ThiY однотонный Lg белый 46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="40.0"/>
+                <availability available="yes" preOrder="0" stockCount="37.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2890</cityprice>
@@ -19117,7 +18957,7 @@
             <model>Повседневное платье ThiY однотонный SF белый, розовый 110</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -19337,7 +19177,7 @@
             <model>Лонгслив ThiY однотонный Lg белый 44</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="45.0"/>
+                <availability available="yes" preOrder="0" stockCount="43.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2890</cityprice>
@@ -19461,26 +19301,6 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="122130919_057268173">
-            <model>Стеллаж напольный , 80x29x155 см, серый</model>
-            <brand>Без бренда</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">14900</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="128561243_981725854">
-            <model>Брелок JoysToys MD3045 2 искусственная кожа 1 шт</model>
-            <brand>joystoys</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
             </cityprices>
         </offer>
         <offer sku="113780534_615391728">
@@ -19713,16 +19533,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="140681542_913078680">
-            <model>Сарафан ThiY однотонный 30319885_440110050 бежевый 122</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="136179046_334034522">
             <model>Купальник All the Baby G4080 розовый 120</model>
             <brand>all-the-baby</brand>
@@ -19757,7 +19567,7 @@
             <model>Нарядное платье 30337379_777083408 белый 80</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="7.0"/>
+                <availability available="yes" preOrder="0" stockCount="6.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">8990</cityprice>
@@ -19943,16 +19753,6 @@
                 <cityprice cityId="710000000">2290</cityprice>
             </cityprices>
         </offer>
-        <offer sku="140681542_981932383">
-            <model>Сарафан ThiY однотонный 30319885_440110050 бежевый 128</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="12587807b_872332805">
             <model>Комплект 3003024 белый, розовый 120</model>
             <brand>thiy</brand>
@@ -20007,7 +19807,7 @@
             <model>Кепка VELVET.KZ Бруклин размер универсальный, черный</model>
             <brand>velvet-qaz</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="25.0"/>
+                <availability available="yes" preOrder="0" stockCount="24.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
@@ -20473,16 +20273,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="118504838_167491978">
-            <model>Кепка 345868 размер универсальный, черный</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">1990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="112922942_697027469">
             <model>Демисезонная куртка осень весна зеленый, мультиколор 3 года</model>
             <brand>thiy</brand>
@@ -20867,7 +20657,7 @@
             <model>Комплект AIGI SK5 темно-зеленый, темно-синий 128</model>
             <brand>aigi</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="26.0"/>
+                <availability available="yes" preOrder="0" stockCount="25.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7490</cityprice>
@@ -20927,7 +20717,7 @@
             <model>Лонгслив однотонный 30333027_149772988 мятный, светло-зеленый 52</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -21123,16 +20913,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="15132283b_512119199">
-            <model>Лонгслив однотонный 30333027_149772988 розовый 44</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="139368373_425214809">
             <model>Купальник All the Baby G4080 розовый 110</model>
             <brand>all-the-baby</brand>
@@ -21227,7 +21007,7 @@
             <model>Демисезонная куртка осень весна зеленый, мультиколор 2 года</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="8.0"/>
+                <availability available="yes" preOrder="0" stockCount="7.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4989</cityprice>
@@ -21487,7 +21267,7 @@
             <model>Лонгслив однотонный 30333027_149772988 розовый 56</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -21967,7 +21747,7 @@
             <model>Платье FOR YOU 36296 черный one size</model>
             <brand>for-you</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="29.0"/>
+                <availability available="yes" preOrder="0" stockCount="30.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">3900</cityprice>
@@ -22167,7 +21947,7 @@
             <model>Комплект AIGI SK5 темно-зеленый, темно-синий 92</model>
             <brand>aigi</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="15.0"/>
+                <availability available="yes" preOrder="0" stockCount="14.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7490</cityprice>
@@ -22177,7 +21957,7 @@
             <model>Точилка механическая DELI Comiko 044-0641S, 1 шт, мультиколор</model>
             <brand>deli</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="5.0"/>
+                <availability available="yes" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2490</cityprice>
@@ -22417,7 +22197,7 @@
             <model>Лонгслив однотонный 30333027_149772988 молочный 54</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -22457,7 +22237,7 @@
             <model>Пижама Hello Kitty Kuromi 0851 сиреневый 104</model>
             <brand>hello-kitty</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">3890</cityprice>
@@ -22477,7 +22257,7 @@
             <model>Кепка 539790 размер универсальный, бордовый</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="10.0"/>
+                <availability available="yes" preOrder="0" stockCount="4.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
@@ -24297,7 +24077,7 @@
             <model>Чешки 636008 белый 25</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
@@ -24327,7 +24107,7 @@
             <model>Жилет 498219-6 бордовый 50</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -25090,7 +24870,7 @@
                 <availability available="yes" preOrder="0" stockCount="10000.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1894</cityprice>
+                <cityprice cityId="710000000">1978</cityprice>
             </cityprices>
         </offer>
         <offer sku="147496148_306216241">
@@ -25130,7 +24910,7 @@
                 <availability available="yes" preOrder="0" stockCount="10000.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">1631</cityprice>
+                <cityprice cityId="710000000">1727</cityprice>
             </cityprices>
         </offer>
         <offer sku="108820086_803532815">
@@ -25457,7 +25237,7 @@
             <model>Комплект красный</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+                <availability available="yes" preOrder="25" stockCount="999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">2790</cityprice>
@@ -25737,17 +25517,17 @@
             <model>Мини-сумка ThiY SD ПВХ розовый</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="10000.0"/>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="710000000">2490</cityprice>
+                <cityprice cityId="710000000">1990</cityprice>
             </cityprices>
         </offer>
         <offer sku="504769074">
             <model>Пижама 15646199_020850934 розовый, малиновый 158</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="10000.0"/>
+                <availability available="yes" preOrder="0" stockCount="9999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">3990</cityprice>
@@ -25757,7 +25537,7 @@
             <model>Пижама Hello Kitty розовый</model>
             <brand>hello-kitty</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="10000.0"/>
+                <availability available="yes" preOrder="0" stockCount="9999.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">7990</cityprice>
@@ -25787,7 +25567,7 @@
             <model>126621229 желтый 98</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="10000.0"/>
+                <availability available="yes" preOrder="0" stockCount="9997.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -25823,16 +25603,6 @@
                 <cityprice cityId="710000000">4990</cityprice>
             </cityprices>
         </offer>
-        <offer sku="229782861">
-            <model>Повседневное платье ThiY однотонный YG бежевый 92</model>
-            <brand>thiy</brand>
-            <availabilities>
-                <availability available="yes" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="710000000">4990</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="920530383">
             <model>Повседневное платье ThiY однотонный YG бежевый 98</model>
             <brand>thiy</brand>
@@ -25845,6 +25615,1386 @@
         </offer>
         <offer sku="049500454">
             <model>Повседневное платье ThiY однотонный YG коричневый 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122162858">
+            <model>Пижама ThiY PL зеленый 140</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="765084469">
+            <model>ThiY MX2 белый 50</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="344653286">
+            <model>Колготки классические ThiY KL черный 122-146</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="353361749">
+            <model>Слипы ThiY TS мультиколор 48</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="993087922">
+            <model>Слипы ThiY TS мультиколор 44</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="023572490">
+            <model>Слипы ThiY TS мультиколор 46</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="110194754_989948956">
+            <model>Майка ThiY THB2 бежевый 44</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132730">
+            <model>Леггинсы LEGB черный XXL</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="098268092">
+            <model>Комплект ThiY OK желтый 128</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="9999.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="527593021">
+            <model>Повседневное платье ThiY TP мультиколор 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="519971460">
+            <model>Комплект ThiY KRI синий, серый 104</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="267508790">
+            <model>Бикини ThiY Xs черный 46</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="805115475">
+            <model>Повседневное платье ThiY Кролик RR синий 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="883513487">
+            <model>Повседневное платье ThiY CGH зеленый 128</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="TH55">
+            <model>Куртка TH55 розовый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="115.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="559931186">
+            <model>Комплект ThiY GC мультиколор 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="200380280">
+            <model>Нарядное платье однотонный plt1 черный 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="978127">
+            <model>Леггинсы LEGB серый XL</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="517280007">
+            <model>Лонгслив ThiY однотонный Lg белый 48</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="998.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="517991712">
+            <model>Повседневное платье ThiY FC синий 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="673346626">
+            <model>Повседневное платье ThiY однотонный VC черный 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="318990641">
+            <model>Повседневное платье ThiY TP мультиколор 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="754253">
+            <model>Декоративный светильник 754253, пластик</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="513210">
+            <model>Майка ThiY THB2 бежевый S</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150062847">
+            <model>Комплект ThiY KRI серый 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="214412798">
+            <model>Комплект ThiY PSH серый 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="TR1">
+            <model>Брифы ThiY TR1 мультиколор 46</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="281090100">
+            <model>Чулки ThiY CG бордовый 1</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="069661412">
+            <model>Комплект ThiY KM черный 44</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="888028">
+            <model>Повседневные шорты ThiY thb3 черный L</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="258160924">
+            <model>ThiY MX1 белый 50</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="542236008">
+            <model>ThiY MX1 белый 54</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="144750556">
+            <model>Повседневное платье ThiY однотонный VC черный 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100984">
+            <model>Комплект MO черный СТАНДАРТ</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="888879970">
+            <model>Повседневное платье ThiY однотонный VC черный 128</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="394632496">
+            <model>Повседневное платье ThiY однотонный VC черный 140</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="482314234">
+            <model>Колготки классические ThiY KL бежевый 122-146</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="2490.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="837848890">
+            <model>ThiY KRI серый 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="830056">
+            <model>Комплект MO белый Стандарт</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="448410864">
+            <model>Пижама ThiY PL бежевый 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="484582420">
+            <model>Повседневное платье ThiY LM белый, желтый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="642915169">
+            <model>Комплект ThiY KM серый 48</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="733801">
+            <model>Повседневные шорты thb1 серый L</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="574989725">
+            <model>Повседневное платье ThiY FC синий 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="123309631">
+            <model>Повседневное платье ThiY FC синий 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="541986275">
+            <model>Чулки ThiY CG черный, графит 1</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="727698">
+            <model>Леггинсы LEGB черный M</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="793780298">
+            <model>Комплект ThiY OK розовый 140</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="673810">
+            <model>Платье BRL черный Стандарт</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="384527922">
+            <model>Пижама ThiY PL зеленый 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="771725036">
+            <model>Комплект ThiY GC мультиколор 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="434359088">
+            <model>Комплект ThiY KRI синий, серый 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="633135650">
+            <model>Повседневное платье ThiY TP мультиколор 128</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="905070031">
+            <model>Мини-сумка ThiY SD ПВХ фиолетовый</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="110194754_821666670">
+            <model>Майка ThiY THB2 бежевый 46</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="850295">
+            <model>Майка ThiY THB2 бежевый M</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="426238229">
+            <model>Чулки ThiY CG шоколад универсальный</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="204215261">
+            <model>Комплект ThiY KRI серый 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="207490666">
+            <model>Повседневное платье ThiY TP мультиколор 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="358826">
+            <model>Повседневные шорты ThiY thb3 черный M</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="091197243">
+            <model>Чулки ThiY CG черный, белый 1</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118674806_357235579">
+            <model>Комплект 171525 серый L</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118674806_814894123">
+            <model>Комплект 171525 серый XS</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="069932077">
+            <model>Барсетка ThiY BRS оксфорд черный</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118674806_943651830">
+            <model>Комплект 171525 серый M</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118674806_340516663">
+            <model>Комплект 171525 серый S</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="823887">
+            <model>Майка ThiY THB2 бежевый L</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="924199958">
+            <model>Повседневное платье ThiY ED розовый 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="25.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="938950894">
+            <model>Песочник ThiY PS1 белый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="25.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="997964">
+            <model>Повседневные шорты thb1 серый XL</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="060541847">
+            <model>Бикини ThiY Xs белый 44</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="707194703">
+            <model>Бикини ThiY Xs белый 46</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="146045">
+            <model>Повседневные шорты thb1 серый XXL</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="001023174">
+            <model>Мини-сумка ThiY SD ПВХ зеленый</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="760900540">
+            <model>Песочник ThiY SM белый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="862245959">
+            <model>Повседневное платье ThiY CGH зеленый 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117999124">
+            <model>Повседневное платье ThiY CGH зеленый 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="883370126">
+            <model>Песочник ThiY MS коричневый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="297303091">
+            <model>Мини-сумка ThiY SD ПВХ синий</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="25.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116183873_698415859">
+            <model>Кошелек 1128 искусственная кожа черный</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128751">
+            <model>Кошелек PT полиуретан черный</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="208393">
+            <model>Kp1 белый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="429045">
+            <model>Kp1 серый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="582189">
+            <model>Kp1 розовый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">3490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="096736920">
+            <model>Мини-сумка ThiY 096736920 искусственная кожа черный</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="217942509">
+            <model>Нарядное платье ThiY однотонный ELZ розовый 128</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="TH57">
+            <model>Куртка TH55 фиолетовый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="355109067">
+            <model>Мини-сумка ThiY MNS искусственная кожа белый</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118674806_786311548">
+            <model>Комплект 171525 серый 2XL</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="476225733">
+            <model>Повседневное платье ThiY CGH черный 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="090090207">
+            <model>Нарядное платье ThiY NP розовый 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="073588199">
+            <model>Повседневное платье ThiY CGH черный 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="615651133">
+            <model>Повседневное платье ThiY CGH черный 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="602371771">
+            <model>Чулки ThiY GG черный 1</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121130401_592825575">
+            <model>Пижама 987021523 черный 44</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121130401_038751971">
+            <model>Пижама 987021523 черный 48</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121130401_536512487">
+            <model>Пижама 987021523 черный 42</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="245988">
+            <model>Кошелек PT полиуретан белый, розовый</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="709725183">
+            <model>Сабо ThiY SB белый 39</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="074200263">
+            <model>Сабо ThiY SB белый 38</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="883837684">
+            <model>Сабо ThiY SB белый 37</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="502557">
+            <model>Набор костюм доктора для детей</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="867569384">
+            <model>Нарядное платье ThiY GF розовый, сиреневый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="364984788">
+            <model>Колготки классические ThiY KL белый 110-122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="848647402">
+            <model>Колготки классические ThiY KL белый 92-110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="103824915_623001">
+            <model>Happy every day комплект 18 шт</model>
+            <brand>happy-every-day</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="4T">
+            <model>Бикини 1T белый 48</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120290968_978223686">
+            <model>Кошелек 1128 искусственная кожа розовый</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="807094214">
+            <model>Песочник ThiY PS1 белый 74</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="736259185">
+            <model>Песочник ThiY SM коричневый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="385355">
+            <model>Повседневные шорты ThiY thb3 черный XL</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="942724">
+            <model>Повседневные шорты ThiY thb3 черный S</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">2490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="346248240">
+            <model>Повседневное платье ThiY однотонный VC черный 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="404194032">
+            <model>Повседневное платье ThiY однотонный VC розовый 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="770878807">
+            <model>Повседневное платье ThiY CRD красный, белый 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="556010532">
+            <model>Повседневное платье ThiY CRD красный, белый 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="633794253">
+            <model>ThiY CRD красный белый 3 года</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150605411_734603308">
+            <model>Нарядное платье однотонный белый, розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="0.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150576182_678159933">
+            <model>Нарядное платье однотонный белый, розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="0.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="551194241">
+            <model>ALSQR11</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="0.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="149663359_761071937">
+            <model>Нарядное платье однотонный белый, розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" preOrder="0" stockCount="0.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="577524647">
+            <model>Повседневное платье ThiY HKT розовый 110</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="560639833">
+            <model>Повседневное платье ThiY HKT розовый 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150031959">
+            <model>Повседневное платье ThiY HKT красный 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="392945295">
+            <model>Повседневное платье ThiY HKT красный 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="430659248">
+            <model>ThiY HKT красный 4 года</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16689191b_167237069">
+            <model>Повседневное платье Kuromi принт с любимым персонажем Kuromi платье фиолетовый 98</model>
+            <brand>kuromi</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16689191b_789324349">
+            <model>Повседневное платье Kuromi принт с любимым персонажем Kuromi платье фиолетовый 122</model>
+            <brand>kuromi</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16689191b_972003236">
+            <model>Повседневное платье Kuromi принт с любимым персонажем Kuromi платье фиолетовый 110</model>
+            <brand>kuromi</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16689191b_018780148">
+            <model>Повседневное платье Kuromi принт с любимым персонажем Kuromi платье фиолетовый 128</model>
+            <brand>kuromi</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16689191b_682913030">
+            <model>Повседневное платье Kuromi принт с любимым персонажем Kuromi платье фиолетовый 140</model>
+            <brand>kuromi</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16689191b_031882096">
+            <model>Повседневное платье Kuromi принт с любимым персонажем Kuromi платье фиолетовый 104</model>
+            <brand>kuromi</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="773888122">
+            <model>Нарядное платье ThiY YT бордовый 92</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="840170407">
+            <model>Нарядное платье ThiY YT розовый 80</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="700600713">
+            <model>Нарядное платье ThiY YT бордовый 98</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="526946694">
+            <model>ThiY YT бордовый 12M</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">7990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="378378335">
+            <model>Нарядное платье ThiY GH черный 122</model>
+            <brand>thiy</brand>
+            <availabilities>
+                <availability available="yes" preOrder="25" stockCount="1000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="710000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="748340819">
+            <model>Майка ThiY MDB белый 48</model>
             <brand>thiy</brand>
             <availabilities>
                 <availability available="yes" preOrder="0" stockCount="1.0"/>
