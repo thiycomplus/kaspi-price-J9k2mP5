@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-20 16:45">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-20 17:02">
     <company>623001</company>
     <merchantid>623001</merchantid>
     <offers>
@@ -177,7 +177,7 @@
             <model>ThiY M1 белый 46</model>
             <brand>thiy</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="25.0"/>
+                <availability available="yes" preOrder="0" stockCount="24.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">4990</cityprice>
@@ -22087,7 +22087,7 @@
             <model>Mr. Petman шлейка с поводком 17675141 для постоянной носки S розовый</model>
             <brand>Mr. Petman</brand>
             <availabilities>
-                <availability available="yes" preOrder="0" stockCount="24.0"/>
+                <availability available="yes" preOrder="0" stockCount="23.0"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="710000000">1990</cityprice>
